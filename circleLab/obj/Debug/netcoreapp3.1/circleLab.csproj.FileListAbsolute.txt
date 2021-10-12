@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\circleLab\circleLab\bin\Debug\netcoreapp3.1\circleLab.exe
+C:\Users\yashi\source\repos\circleLab\circleLab\bin\Debug\netcoreapp3.1\circleLab.deps.json
+C:\Users\yashi\source\repos\circleLab\circleLab\bin\Debug\netcoreapp3.1\circleLab.runtimeconfig.json
+C:\Users\yashi\source\repos\circleLab\circleLab\bin\Debug\netcoreapp3.1\circleLab.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\circleLab\circleLab\bin\Debug\netcoreapp3.1\circleLab.dll
+C:\Users\yashi\source\repos\circleLab\circleLab\bin\Debug\netcoreapp3.1\circleLab.pdb
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.AssemblyInfo.cs
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.dll
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.pdb
+C:\Users\yashi\source\repos\circleLab\circleLab\obj\Debug\netcoreapp3.1\circleLab.genruntimeconfig.cache
